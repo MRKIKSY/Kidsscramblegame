@@ -1,4 +1,10 @@
 let words = [
+    
+     {
+        word: "goat",
+        hint: "one word to describe tolu akanbi"
+    },
+    
     {
         word: "addition",
         hint: "The process of adding numbers"
